@@ -1,2 +1,4 @@
 # Morpion
-jeu 
+jeu en PAIR PROGRAMMING avec Tsiry
+
+
